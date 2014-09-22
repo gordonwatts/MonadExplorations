@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EitherMonad", "EitherMonad\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EitherWithObjectMonand", "EitherWithObjectMonand\EitherWithObjectMonand.csproj", "{9942A224-3A4F-4307-BF3C-1FAFC2CD0779}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureMonadTest", "FutureMonadTest\FutureMonadTest.csproj", "{5B2538A9-9822-4E55-94D1-E60A18623951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9942A224-3A4F-4307-BF3C-1FAFC2CD0779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9942A224-3A4F-4307-BF3C-1FAFC2CD0779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9942A224-3A4F-4307-BF3C-1FAFC2CD0779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2538A9-9822-4E55-94D1-E60A18623951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2538A9-9822-4E55-94D1-E60A18623951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2538A9-9822-4E55-94D1-E60A18623951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2538A9-9822-4E55-94D1-E60A18623951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
